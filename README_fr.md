@@ -1,4 +1,4 @@
-PP-Predict Prediction du Parti Politique à partir de discours
+PP-Predict: Prediction du Parti Politique à partir de discours
 ===
 Université Laval
 
@@ -13,6 +13,7 @@ Voici notre implémentation d'une technique utilisant les _bag-of-words_ pour pr
 
 ### Description du projet
 
+Voir le [rapport](rapport.pdf).
 
 ### Structure du code
 

@@ -11,9 +11,13 @@ Université Laval
 
 Here is our implementation of a bag-of-words technique to predict the political party that wrote a speech with the text of the speech only. This project was done as part of our [Machine Learning](https://www.ulaval.ca/les-etudes/cours/repertoire/detailsCours/gif-4101-apprentissage-et-reconnaissance.html) course in the fall of 2016. 
 
-### Description of the project
+### Project description
 
+We construct bag-of-words (BoW) from treated raw_data. Then, we can construct a vector associated with a speech and train a simple LinearSVM to calssified the speeched. With tested 3 versions of bag-of-words:
 
+- **Classic BoW**: 1-Gram BoW. We cut the words with to high or to low overall frequence.
+- **N-Gram BoW**: Different sizes of N to study the influence of N. We also cut the words with to high or to low overall frequence.
+- **Norm-BoW**: We use an equation to weight the frequence of a word with respect of its overall frequence. Hence we do not have to cut the frequent and non-frequent words. 
 
 ### Code Structure
 
