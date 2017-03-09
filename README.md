@@ -9,7 +9,7 @@ Université Laval
 
 ### What is this project?
 
-Here is our implementation of a bag-of-words technique to predict the political party that wrote a speech with the text of the speech only. This project was done as part of our [Machine Learning](https://www.ulaval.ca/les-etudes/cours/repertoire/detailsCours/gif-4101-apprentissage-et-reconnaissance.html) course in the fall of 2016. 
+Here is our implementation of a bag-of-words technique to predict the political party from speeches. This project was done as part of our [Machine Learning](https://www.ulaval.ca/les-etudes/cours/repertoire/detailsCours/gif-4101-apprentissage-et-reconnaissance.html) course in the fall of 2016. 
 
 ### Project description
 
